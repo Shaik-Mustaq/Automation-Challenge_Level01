@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="7cnddJ0kFUuRQH4zudsMvA" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="rpahackathon.co.uk/start_level_1.php" CVScreenId="7a86373c-6c17-44e5-81ff-6cbba80e559a" CvElementArea="566, 696, 809, 60" CvType="InputBox" DesignTimeRectangle="566, 698, 810, 57" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='INPUT' /&gt;" Guid="633606e4-fea6-4a37-bf54-f62c37834382" ScopeSelectorArgument="&lt;html app='msedge.exe' title='AI &amp;amp; RPA Hackathon - Level 1' /&gt;" SearchSteps="Selector, CV" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="b6acbc9861d1777d19e35b9dc9b310da.png" xmlns="">01wW0Ww4yrkKQ-4yVNHsXPQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

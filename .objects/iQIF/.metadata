@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Edge AI & RPA Hackathon - Level 1",
+  "Type": "App",
+  "Id": "iQIFlw834U6p4I3V-8G2Og",
+  "Reference": "bEbiIIH2iUiZULDVT56fSA/iQIFlw834U6p4I3V-8G2Og",
+  "Created": "2026-02-09T10:05:19.5942319Z",
+  "Updated": "2026-02-09T10:05:19.5942319Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.22.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.12.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
